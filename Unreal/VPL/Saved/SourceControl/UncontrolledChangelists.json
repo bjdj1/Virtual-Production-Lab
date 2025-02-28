@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/RTX/Desktop/Virtual-Production-Lab/Unreal/VPL/Content/DreamscapeSeries/DreamscapeTower/Maps/DemoMap.umap",
+				"C:/Users/RTX/Desktop/Virtual-Production-Lab/Unreal/VPL/Content/Orasot_Bundle/Maps/M_StylizedForestLandscape_Showcase_BuiltData.uasset",
+				"C:/Users/RTX/Desktop/Virtual-Production-Lab/Unreal/VPL/Content/Orasot_Bundle/Maps/M_StylizedForestLandscape_Showcase.umap",
+				"C:/Users/RTX/Desktop/Virtual-Production-Lab/Unreal/VPL/Content/Orasot_Bundle/Maps/M_LowPoly2_Showcase.umap",
+				"C:/Users/RTX/Desktop/Virtual-Production-Lab/Unreal/VPL/Content/Orasot_Bundle/Maps/M_5_Bioms_Showcase.umap",
 				"E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Maps/Lvl_Master.umap"
 			]
