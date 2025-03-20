@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/Plane.uasset",
+				"E:/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Maps/Lvl_Master.umap",
+				"E:/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Zelda_Character/Animations/Zelda_Standingnexttocave_Anim.uasset",
+				"E:/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Zelda_Character/ZeldaChar_Skeleton.uasset",
 				"C:/Users/Joshua/Desktop/Entertainment/AIT/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Zelda_Character/Materials/mat_zelda.uasset",
 				"C:/Users/Joshua/Desktop/Entertainment/AIT/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Zelda_Character/Materials/mat_zeldaEyes.uasset",
 				"C:/Users/Joshua/Desktop/Entertainment/AIT/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Zelda_Character/Materials/mat_zeldaHair.uasset",
