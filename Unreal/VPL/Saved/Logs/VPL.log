@@ -1551,3 +1551,1517 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.23-03.30.40:154][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.23-03.30.40:156][169]AssetCheck: /Game/MyContent/Maps/Lvl_Master Validating asset
 [2025.03.23-03.30.40:156][169]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-03.31.31:640][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.23-03.31.33:692][902]LogSlate: Window 'Save Content' being destroyed
+[2025.03.23-03.31.36:015][ 62]Cmd: TRANSACTION UNDO
+[2025.03.23-03.31.36:015][ 62]LogEditorTransaction: Undo Move Elements
+[2025.03.23-03.31.52:272][996]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.31.52:272][996]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.31.58:307][374]Cmd: DELETE
+[2025.03.23-03.31.58:307][374]Cmd: ACTOR DELETE
+[2025.03.23-03.31.58:311][374]LogStreaming: Display: FlushAsyncLoading(360): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.23-03.31.58:378][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.23-03.31.58:386][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.23-03.31.58:391][374]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2025.03.23-03.32.07:010][114]Cmd: DUPLICATE
+[2025.03.23-03.32.07:010][114]Cmd: ACTOR DUPLICATE
+[2025.03.23-03.32.49:755][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.23-03.32.57:320][639]LogSlate: Window 'Save Content' being destroyed
+[2025.03.23-03.33.45:563][727]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.33.45:563][727]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.33.56:755][369]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.33.56:755][369]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.33.58:323][399]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.33.58:323][399]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.34.50:915][651]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.34.50:915][651]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.35.05:793][740]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.35.05:798][740]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.35.05:809][740]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.35.20:625][573]LogStreaming: Display: FlushAsyncLoading(361): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.23-03.36.03:835][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 723.541687
+[2025.03.23-03.36.04:156][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-03.36.04:156][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 723.826111, Update Interval: 359.077118
+[2025.03.23-03.36.05:082][853]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Total job queries 673, among them cache hits 61 (9.06%), DDC hits 583 (86.63%), Duplicates 10 (1.49%)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Tracking 602 distinct input hashes that result in 484 distinct outputs (80.40%)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: RAM used: 297.76 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Shaders Compiled: 19
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Jobs assigned 19, completed 19 (100%)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Average time worker was idle: 105.79 s
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 2.01 s
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 2.05
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Shader code size: average 7.585 KiB, min 4.156 KiB, max 11.586 KiB
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.21 s
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.37%
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Average processing rate: 3.65 jobs/sec
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Total thread time: 5.104 s
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Total thread preprocess time: 10.455 s
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Percentage time preprocessing: 204.83%
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Effective parallelization: 0.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.27 sec, max 0.29 sec, min 0.24 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.96% of total time (compiled    3 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.98% of total time (compiled    3 times, average 0.27 sec, max 0.29 sec, min 0.24 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.30% of total time (compiled    4 times, average 0.18 sec, max 0.20 sec, min 0.16 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.46% of total time (compiled    4 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.39% of total time (compiled    3 times, average 0.18 sec, max 0.21 sec, min 0.15 sec)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: === Material stats ===
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Materials Translated:    186
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Material Translation Only: 0.05 s (34%)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: Material Cache Hits: 51 (27%)
+[2025.03.23-03.36.05:083][853]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.36.45:232][762]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.36.45:232][762]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.36.51:321][947]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.36.51:321][947]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.37.22:071][844]Cmd: TRANSACTION UNDO
+[2025.03.23-03.37.22:071][844]LogEditorTransaction: Undo Rotate Elements
+[2025.03.23-03.40.35:649][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.23-03.40.35:666][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContent/Maps/Lvl_Master_Auto1
+[2025.03.23-03.40.35:668][189]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_Master_Auto17D8AE8D04A2059116CAF03B400B8E7D1.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Autosaves/Game/MyContent/Maps/Lvl_Master_Auto1.umap'
+[2025.03.23-03.40.35:727][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContent/Maps/Lvl_Trent_Auto1
+[2025.03.23-03.40.35:730][189]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_Trent_Auto1A27A4A204728AA6EF01CFDAA3EC3CFE9.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Autosaves/Game/MyContent/Maps/Lvl_Trent_Auto1.umap'
+[2025.03.23-03.40.35:769][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Maps/Lvl_Master' took 0.134
+[2025.03.23-03.40.35:769][189]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2025.03.23-03.40.35:770][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-03.40.35:770][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-03.40.35:776][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContent/Sequences/LS_Shot_Cave_Auto1
+[2025.03.23-03.40.35:777][189]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_Cave_Auto1BA65032742DF348833327E9C263AFDFC.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Autosaves/Game/MyContent/Sequences/LS_Shot_Cave_Auto1.uasset'
+[2025.03.23-03.40.35:781][189]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.03.23-03.42.07:800][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1087.505371
+[2025.03.23-03.42.08:077][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-03.42.08:077][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1087.770630, Update Interval: 353.257843
+[2025.03.23-03.42.31:706][684]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.42.31:706][684]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.42.55:069][ 15]Cmd: TRANSACTION UNDO
+[2025.03.23-03.42.55:070][ 15]LogEditorTransaction: Undo Add Keys at Current Time
+[2025.03.23-03.42.55:619][ 26]Cmd: TRANSACTION UNDO
+[2025.03.23-03.42.55:619][ 26]LogEditorTransaction: Undo Move Elements
+[2025.03.23-03.43.05:573][504]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.43.05:573][504]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.43.19:140][992]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.43.19:140][992]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.44.09:343][378]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.44.09:343][378]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.44.33:499][  6]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand.M_TripLand
+[2025.03.23-03.44.33:499][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.03.23-03.44.33:500][  6]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.03.23-03.44.33:500][  6]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.03.23-03.44.33:505][  6]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.03.23-03.44.33:510][  6]LogStreaming: Display: FlushAsyncLoading(362): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.23-03.44.33:935][  6]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.44.33:935][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.33:935][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.33:935][  6]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.44.33:935][  6]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.44.33:942][  6]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.23-03.44.34:034][  8]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.44.34:034][  8]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.44.34:034][  8]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.44.34:034][  8]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.34:034][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.34:034][  8]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.44.34:034][  8]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.44.44:989][670]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.44.44:989][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.44:989][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.44:989][670]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.44.44:989][670]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.44.46:072][721]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.44.46:072][721]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.46:072][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.46:072][721]MaterialEditorStats: Shader Count: 4
+[2025.03.23-03.44.46:072][721]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.44.46:170][726]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.44.46:170][726]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.44.46:170][726]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.46:170][726]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.46:170][726]MaterialEditorStats: Shader Count: 7
+[2025.03.23-03.44.46:170][726]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.44.46:379][736]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.44.46:379][736]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.44.46:379][736]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.44.46:379][736]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.46:379][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.46:379][736]MaterialEditorStats: Shader Count: 10
+[2025.03.23-03.44.46:379][736]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.44.46:929][768]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.44.46:929][768]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.46:929][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.46:929][768]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.44.46:929][768]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.44.46:978][770]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.44.46:979][770]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.44.46:979][770]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.44.46:979][770]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.44.46:979][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.44.46:979][770]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.44.46:979][770]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Total job queries 755, among them cache hits 114 (15.10%), DDC hits 601 (79.60%), Duplicates 10 (1.32%)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Tracking 631 distinct input hashes that result in 497 distinct outputs (78.76%)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: RAM used: 301.77 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Shaders Compiled: 30
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Average time worker was idle: 342.36 s
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 2.01 s
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 2.05
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Shader code size: average 7.387 KiB, min 3.832 KiB, max 12.473 KiB
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.05 s
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.35%
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Average processing rate: 4.25 jobs/sec
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Total thread time: 10.218 s
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Total thread preprocess time: 11.427 s
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Percentage time preprocessing: 111.84%
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Effective parallelization: 1.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.75 sec, max 1.02 sec, min 0.49 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 14.77% of total time (compiled    2 times, average 0.75 sec, max 1.02 sec, min 0.49 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.47% of total time (compiled    3 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.72% of total time (compiled    4 times, average 0.32 sec, max 0.48 sec, min 0.24 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.63% of total time (compiled    5 times, average 0.22 sec, max 0.36 sec, min 0.16 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.10% of total time (compiled    5 times, average 0.19 sec, max 0.29 sec, min 0.15 sec)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: === Material stats ===
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Materials Translated:    195
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Material Translation Only: 0.05 s (34%)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: Material Cache Hits: 51 (26%)
+[2025.03.23-03.45.05:427][820]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.45.19:712][634]LogMaterialEditor: Applying material M_TripLand
+[2025.03.23-03.45.19:832][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.23-03.45.21:398][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.23-03.45.22:863][717]LogMaterialEditor: Saving and Compiling material M_TripLand
+[2025.03.23-03.45.22:864][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.45.22:920][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/LiveAction/VP_6TripLand/M_TripLand] ([1] browsable assets)...
+[2025.03.23-03.45.22:949][717]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand.M_TripLand]
+[2025.03.23-03.45.22:949][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_6TripLand/M_TripLand]
+[2025.03.23-03.45.22:951][717]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand
+[2025.03.23-03.45.22:953][717]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/M_TripLandF33EE6B9447E4B815ECD34AD8ADF097C.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_6TripLand/M_TripLand.uasset'
+[2025.03.23-03.45.22:965][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.153 ms (total: 390.163 ms)
+[2025.03.23-03.45.23:021][717]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.45.23:021][717]LogContentValidation: Enabled validators:
+[2025.03.23-03.45.23:021][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.45.23:021][717]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.45.23:021][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.45.23:021][717]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.45.23:021][717]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.45.23:021][717]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.45.23:022][717]AssetCheck: /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand Validating asset
+[2025.03.23-03.45.28:648][109]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video.M_RunningAway_Video
+[2025.03.23-03.45.28:651][109]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.03.23-03.45.29:012][109]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.45.29:012][109]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.45.29:012][109]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.45.29:012][109]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.45.29:012][109]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.45.29:076][111]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.45.29:076][111]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.45.29:076][111]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.45.29:076][111]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.45.29:076][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.45.29:077][111]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.45.29:077][111]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.45.31:928][295]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.45.31:928][295]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.45.31:928][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.45.31:928][295]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.45.31:928][295]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.45.31:988][297]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.45.31:988][297]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.45.31:988][297]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.45.31:988][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.45.31:988][297]MaterialEditorStats: Shader Count: 7
+[2025.03.23-03.45.31:988][297]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.45.32:011][298]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.45.32:012][298]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.45.32:012][298]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.45.32:012][298]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.45.32:012][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.45.32:012][298]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.45.32:012][298]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.45.33:743][398]LogMaterialEditor: Applying material M_RunningAway_Video
+[2025.03.23-03.45.33:871][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.23-03.45.34:018][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.23-03.45.34:426][422]LogMaterialEditor: Saving and Compiling material M_RunningAway_Video
+[2025.03.23-03.45.34:428][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.45.34:477][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video] ([1] browsable assets)...
+[2025.03.23-03.45.34:504][422]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video.M_RunningAway_Video]
+[2025.03.23-03.45.34:504][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video]
+[2025.03.23-03.45.34:507][422]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video
+[2025.03.23-03.45.34:509][422]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/M_RunningAway_VideoECE74E01413F8029C216BBB5E43E13D2.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video.uasset'
+[2025.03.23-03.45.34:521][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.894 ms (total: 483.057 ms)
+[2025.03.23-03.45.34:590][422]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.45.34:590][422]LogContentValidation: Enabled validators:
+[2025.03.23-03.45.34:590][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.45.34:590][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.45.34:590][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.45.34:590][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.45.34:590][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.45.34:590][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.45.34:591][422]AssetCheck: /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video Validating asset
+[2025.03.23-03.46.10:243][ 35]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.46.10:243][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.10:243][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.10:243][ 35]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.46.10:243][ 35]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.10:293][ 37]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.46.10:293][ 37]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.46.10:293][ 37]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.46.10:293][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.10:293][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.10:293][ 37]MaterialEditorStats: Shader Count: 9
+[2025.03.23-03.46.10:293][ 37]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.11:929][133]LogMaterialEditor: Applying material M_RunningAway_Video
+[2025.03.23-03.46.12:041][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.23-03.46.12:218][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.23-03.46.12:644][160]LogMaterialEditor: Saving and Compiling material M_RunningAway_Video
+[2025.03.23-03.46.12:646][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.46.12:737][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video] ([1] browsable assets)...
+[2025.03.23-03.46.12:763][160]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video.M_RunningAway_Video]
+[2025.03.23-03.46.12:763][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video]
+[2025.03.23-03.46.12:766][160]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video
+[2025.03.23-03.46.12:768][160]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/M_RunningAway_Video08CEC1D1410A62410E6F569B94F03B35.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video.uasset'
+[2025.03.23-03.46.12:777][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.608 ms (total: 614.665 ms)
+[2025.03.23-03.46.12:806][160]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.46.12:806][160]LogContentValidation: Enabled validators:
+[2025.03.23-03.46.12:806][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.46.12:806][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.46.12:806][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.46.12:806][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.46.12:806][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.46.12:806][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.46.12:807][160]AssetCheck: /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video Validating asset
+[2025.03.23-03.46.18:677][565]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.46.18:677][565]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.18:677][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.18:677][565]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.46.18:677][565]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.18:732][567]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.46.18:732][567]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.46.18:732][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.18:732][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.18:732][567]MaterialEditorStats: Shader Count: 12
+[2025.03.23-03.46.18:732][567]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.18:760][568]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.46.18:760][568]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.46.18:760][568]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.46.18:760][568]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.18:760][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.18:760][568]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.46.18:760][568]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.19:663][622]LogMaterialEditor: Applying material M_TripLand
+[2025.03.23-03.46.19:766][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.23-03.46.19:938][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.23-03.46.20:103][633]LogMaterialEditor: Saving and Compiling material M_TripLand
+[2025.03.23-03.46.20:104][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.46.20:161][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/LiveAction/VP_6TripLand/M_TripLand] ([1] browsable assets)...
+[2025.03.23-03.46.20:208][633]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand.M_TripLand]
+[2025.03.23-03.46.20:208][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_6TripLand/M_TripLand]
+[2025.03.23-03.46.20:211][633]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand
+[2025.03.23-03.46.20:213][633]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/M_TripLand27CE881A4E460E48409C1694971C1945.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_6TripLand/M_TripLand.uasset'
+[2025.03.23-03.46.20:223][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.347 ms (total: 732.012 ms)
+[2025.03.23-03.46.20:279][633]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.46.20:279][633]LogContentValidation: Enabled validators:
+[2025.03.23-03.46.20:279][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.46.20:279][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.46.20:279][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.46.20:279][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.46.20:279][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.46.20:279][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.46.20:280][633]AssetCheck: /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand Validating asset
+[2025.03.23-03.46.41:634][340]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.46.41:634][340]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.41:634][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.41:634][340]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.46.41:634][340]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.42:872][404]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.46.42:872][404]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.46.42:872][404]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.46.42:872][404]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.42:872][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.42:872][404]MaterialEditorStats: Shader Count: 8
+[2025.03.23-03.46.42:872][404]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.44:314][485]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.46.44:314][485]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.44:314][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.44:314][485]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.46.44:314][485]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.44:377][488]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.46.44:377][488]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.46.44:377][488]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.46.44:377][488]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.44:377][488]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.44:377][488]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.46.44:377][488]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.47:097][645]LogMaterialEditor: Applying material M_RunningAway_Video
+[2025.03.23-03.46.47:205][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.23-03.46.48:301][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.23-03.46.53:883][867]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.46.53:883][867]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.53:883][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.53:883][867]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.46.53:883][867]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.54:383][890]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.46.54:383][890]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.46.54:383][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.54:383][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.54:383][890]MaterialEditorStats: Shader Count: 7
+[2025.03.23-03.46.54:383][890]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.54:474][895]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.46.54:474][895]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.46.54:474][895]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.46.54:474][895]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.46.54:474][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.46.54:474][895]MaterialEditorStats: Shader Count: 8
+[2025.03.23-03.46.54:474][895]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.46.56:237][998]LogMaterialEditor: Applying material M_RunningAway_Video
+[2025.03.23-03.46.56:330][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.23-03.46.57:342][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.23-03.47.30:628][184]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.47.30:628][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.30:628][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.30:628][184]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.47.30:628][184]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.31:739][238]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.47.31:739][238]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.47.31:739][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.31:739][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.31:739][238]MaterialEditorStats: Shader Count: 4
+[2025.03.23-03.47.31:739][238]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.31:940][248]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.47.31:940][248]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.47.31:940][248]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.47.31:940][248]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.31:940][248]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.31:940][248]MaterialEditorStats: Shader Count: 8
+[2025.03.23-03.47.31:940][248]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.32:038][255]LogMaterialEditor: Applying material M_RunningAway_Video
+[2025.03.23-03.47.32:145][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.23-03.47.33:559][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.23-03.47.40:881][715]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.47.40:881][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.40:881][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.40:881][715]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.47.40:881][715]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.40:926][717]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.47.40:926][717]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.47.40:926][717]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.40:926][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.40:926][717]MaterialEditorStats: Shader Count: 10
+[2025.03.23-03.47.40:926][717]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.40:941][718]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.47.40:941][718]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.47.40:941][718]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.47.40:941][718]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.40:941][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.40:941][718]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.47.40:941][718]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.42:488][808]LogMaterialEditor: Applying material M_RunningAway_Video
+[2025.03.23-03.47.42:586][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.23-03.47.42:759][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.23-03.47.44:740][921]LogMaterialEditor: Saving and Compiling material M_RunningAway_Video
+[2025.03.23-03.47.44:742][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.47.44:797][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video] ([1] browsable assets)...
+[2025.03.23-03.47.44:825][921]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video.M_RunningAway_Video]
+[2025.03.23-03.47.44:825][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video]
+[2025.03.23-03.47.44:827][921]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video
+[2025.03.23-03.47.44:829][921]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/M_RunningAway_VideoABA2FDE14BBC35072EE41E85C9C17686.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video.uasset'
+[2025.03.23-03.47.44:838][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.537 ms (total: 828.550 ms)
+[2025.03.23-03.47.44:893][921]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.47.44:893][921]LogContentValidation: Enabled validators:
+[2025.03.23-03.47.44:893][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.47.44:893][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.47.44:893][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.47.44:893][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.47.44:893][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.47.44:893][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.47.44:894][921]AssetCheck: /Game/MyContent/LiveAction/VP_4RunningAway/M_RunningAway_Video Validating asset
+[2025.03.23-03.47.49:997][273]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyContent/LiveAction/VP_5RunToTripping/M_Run2Trip.M_Run2Trip
+[2025.03.23-03.47.50:000][273]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.03.23-03.47.50:456][273]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.47.50:456][273]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.50:456][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.50:456][273]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.47.50:456][273]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.50:520][275]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.47.50:520][275]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.47.50:520][275]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.47.50:520][275]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.50:520][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.50:520][275]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.47.50:520][275]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.58:743][963]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.47.58:743][963]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.58:743][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.58:743][963]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.47.58:743][963]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.47.58:812][966]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.47.58:813][966]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.47.58:813][966]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.47.58:813][966]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.47.58:813][966]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.47.58:813][966]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.47.58:813][966]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.01:133][101]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.48.01:133][101]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.01:133][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.01:133][101]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.48.01:133][101]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.01:170][103]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.48.01:170][103]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.48.01:170][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.01:170][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.01:170][103]MaterialEditorStats: Shader Count: 8
+[2025.03.23-03.48.01:170][103]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.01:189][104]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.48.01:189][104]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.48.01:189][104]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.48.01:189][104]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.01:189][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.01:189][104]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.48.01:189][104]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.03:286][225]LogMaterialEditor: Applying material M_Run2Trip
+[2025.03.23-03.48.03:414][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.23-03.48.03:587][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.23-03.48.04:483][275]LogMaterialEditor: Saving and Compiling material M_Run2Trip
+[2025.03.23-03.48.04:485][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.48.04:530][275]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/LiveAction/VP_5RunToTripping/M_Run2Trip] ([1] browsable assets)...
+[2025.03.23-03.48.04:557][275]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyContent/LiveAction/VP_5RunToTripping/M_Run2Trip.M_Run2Trip]
+[2025.03.23-03.48.04:557][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_5RunToTripping/M_Run2Trip]
+[2025.03.23-03.48.04:559][275]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_5RunToTripping/M_Run2Trip
+[2025.03.23-03.48.04:561][275]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/M_Run2Trip1524A2AC424B383470C38B9562AF23FA.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_5RunToTripping/M_Run2Trip.uasset'
+[2025.03.23-03.48.04:573][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.855 ms (total: 916.405 ms)
+[2025.03.23-03.48.04:629][275]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.48.04:629][275]LogContentValidation: Enabled validators:
+[2025.03.23-03.48.04:629][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.48.04:629][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.48.04:629][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.48.04:629][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.48.04:629][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.48.04:629][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.48.04:629][275]AssetCheck: /Game/MyContent/LiveAction/VP_5RunToTripping/M_Run2Trip Validating asset
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Total job queries 1,320, among them cache hits 589 (44.62%), DDC hits 612 (46.36%), Duplicates 12 (0.91%)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Tracking 719 distinct input hashes that result in 522 distinct outputs (72.60%)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: RAM used: 312.39 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Shaders Compiled: 107
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Jobs assigned 107, completed 107 (100%)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Average time worker was idle: 87.17 s
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 2.01 s
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 2.05
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Shader code size: average 7.308 KiB, min 3.395 KiB, max 14.916 KiB
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.85 s
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.33%
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Jobs were issued in 107 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Average processing rate: 6.75 jobs/sec
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Total thread time: 39.387 s
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Total thread preprocess time: 17.918 s
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Percentage time preprocessing: 45.49%
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Effective parallelization: 2.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 0.91 sec, max 1.05 sec, min 0.49 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.70 sec, max 0.74 sec, min 0.65 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 0.67 sec, max 0.72 sec, min 0.61 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.39 sec, max 0.50 sec, min 0.24 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.55% of total time (compiled    5 times, average 0.91 sec, max 1.05 sec, min 0.49 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.12% of total time (compiled    4 times, average 0.70 sec, max 0.74 sec, min 0.65 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.95% of total time (compiled    7 times, average 0.39 sec, max 0.50 sec, min 0.24 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.78% of total time (compiled    4 times, average 0.67 sec, max 0.72 sec, min 0.61 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.48% of total time (compiled    8 times, average 0.27 sec, max 0.39 sec, min 0.16 sec)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: === Material stats ===
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Materials Translated:    240
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Material Translation Only: 0.06 s (35%)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: Material Cache Hits: 51 (21%)
+[2025.03.23-03.48.05:441][320]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.48.16:399][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1456.116821
+[2025.03.23-03.48.16:659][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-03.48.16:659][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1456.360474, Update Interval: 338.409363
+[2025.03.23-03.48.17:399][234]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.48.17:399][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.17:399][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.17:399][234]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.48.17:399][234]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.17:444][236]MaterialEditorStats: Base pass shader without light map: 93 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.48.17:445][236]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.48.17:445][236]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.48.17:445][236]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.17:445][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.17:445][236]MaterialEditorStats: Shader Count: 9
+[2025.03.23-03.48.17:445][236]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.19:714][424]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.48.19:714][424]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.19:714][424]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.19:714][424]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.48.19:714][424]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.19:784][427]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.48.19:784][427]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.48.19:784][427]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.48.19:784][427]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.19:784][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.19:784][427]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.48.19:784][427]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.22:795][633]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.23-03.48.22:795][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.22:795][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.22:795][633]MaterialEditorStats: Shader Count: 0
+[2025.03.23-03.48.22:795][633]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.22:862][636]MaterialEditorStats: Base pass shader without light map: 94 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.03.23-03.48.22:862][636]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.23-03.48.22:862][636]MaterialEditorStats: Texture samplers: 1/16
+[2025.03.23-03.48.22:862][636]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.03.23-03.48.22:862][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.23-03.48.22:862][636]MaterialEditorStats: Shader Count: 13
+[2025.03.23-03.48.22:862][636]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.03.23-03.48.26:741][858]LogMaterialEditor: Applying material M_TripLand
+[2025.03.23-03.48.26:845][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.23-03.48.27:002][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.23-03.48.27:696][899]LogMaterialEditor: Saving and Compiling material M_TripLand
+[2025.03.23-03.48.27:699][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.48.27:749][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyContent/LiveAction/VP_6TripLand/M_TripLand] ([1] browsable assets)...
+[2025.03.23-03.48.27:803][899]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand.M_TripLand]
+[2025.03.23-03.48.27:803][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_6TripLand/M_TripLand]
+[2025.03.23-03.48.27:805][899]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand
+[2025.03.23-03.48.27:807][899]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/M_TripLand8086C9644D649C4A394A9D8BFC0A01F9.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_6TripLand/M_TripLand.uasset'
+[2025.03.23-03.48.27:815][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.536 ms (total: 1.03 sec)
+[2025.03.23-03.48.27:846][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.48.27:846][899]LogContentValidation: Enabled validators:
+[2025.03.23-03.48.27:846][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.48.27:846][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.48.27:846][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.48.27:846][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.48.27:846][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.48.27:846][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.48.27:847][899]AssetCheck: /Game/MyContent/LiveAction/VP_6TripLand/M_TripLand Validating asset
+[2025.03.23-03.48.38:473][558]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.48.38:522][558]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.48.38:550][558]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.48.49:095][ 39]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.48.49:096][ 39]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.48.50:319][ 64]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.48.50:319][ 64]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.49.24:490][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.49.24:553][614]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-03.49.24:553][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-03.49.24:559][614]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-03.49.24:561][614]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_Cave9663F4B74BDABE867C02E1BA720D9C24.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-03.49.24:569][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.028 ms (total: 1.11 sec)
+[2025.03.23-03.49.24:618][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.49.24:618][614]LogContentValidation: Enabled validators:
+[2025.03.23-03.49.24:618][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.49.24:618][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.49.24:618][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.49.24:618][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.49.24:618][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.49.24:618][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.49.24:620][614]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-03.49.36:976][527]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.49.36:990][527]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.49.37:000][527]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-03.51.05:445][198]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Total job queries 1,439, among them cache hits 690 (47.95%), DDC hits 612 (42.53%), Duplicates 12 (0.83%)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Tracking 737 distinct input hashes that result in 536 distinct outputs (72.73%)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: RAM used: 317.86 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Shaders Compiled: 125
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Jobs assigned 125, completed 125 (100%)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Average time worker was idle: 80.86 s
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 2.86 s
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 2.92
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Shader code size: average 7.41 KiB, min 2.797 KiB, max 15.953 KiB
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.29 s
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.33%
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Jobs were issued in 125 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Average processing rate: 6.16 jobs/sec
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Total thread time: 46.063 s
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Total thread preprocess time: 19.271 s
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Percentage time preprocessing: 41.84%
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Effective parallelization: 2.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 0.88 sec, max 1.05 sec, min 0.49 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.70 sec, max 0.74 sec, min 0.65 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 0.67 sec, max 0.72 sec, min 0.61 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.49 sec, max 0.55 sec, min 0.44 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.39 sec, max 0.50 sec, min 0.24 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.41% of total time (compiled    7 times, average 0.88 sec, max 1.05 sec, min 0.49 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.55% of total time (compiled    9 times, average 0.39 sec, max 0.50 sec, min 0.24 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.09% of total time (compiled    4 times, average 0.70 sec, max 0.74 sec, min 0.65 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.92% of total time (compiled   10 times, average 0.27 sec, max 0.39 sec, min 0.16 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.80% of total time (compiled    4 times, average 0.67 sec, max 0.72 sec, min 0.61 sec)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: === Material stats ===
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Materials Translated:    248
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Material Translation Only: 0.06 s (35%)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: Material Cache Hits: 51 (21%)
+[2025.03.23-03.51.05:446][198]LogShaderCompilers: Display: ================================================
+[2025.03.23-03.51.35:100][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.51.35:164][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-03.51.35:164][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-03.51.35:170][114]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-03.51.35:173][114]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_CaveE847A9A148D2075D05DAA4B591F51786.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-03.51.35:183][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.992 ms (total: 1.19 sec)
+[2025.03.23-03.51.35:246][114]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.51.35:246][114]LogContentValidation: Enabled validators:
+[2025.03.23-03.51.35:246][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.51.35:246][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.51.35:246][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.51.35:246][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.51.35:246][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.51.35:246][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.51.35:247][114]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-03.51.42:086][673]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.23-03.51.42:142][673]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.23-03.51.42:157][674]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.23-03.51.48:179][161]LogContentBrowser: Attempting asset rename: NewFolder -> Effects
+[2025.03.23-03.51.48:180][161]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.23-03.52.41:996][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.23-03.52.42:011][865]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContent/Maps/Lvl_Master_Auto2
+[2025.03.23-03.52.42:013][865]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_Master_Auto296AEC5A5461B5A739396908093474209.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Autosaves/Game/MyContent/Maps/Lvl_Master_Auto2.umap'
+[2025.03.23-03.52.42:066][865]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyContent/Maps/Lvl_Trent_Auto2
+[2025.03.23-03.52.42:068][865]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_Trent_Auto2AEF2CA4A4BE6A1045F1C71B5B99B57A0.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Autosaves/Game/MyContent/Maps/Lvl_Trent_Auto2.umap'
+[2025.03.23-03.52.42:101][865]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Maps/Lvl_Master' took 0.123
+[2025.03.23-03.52.42:101][865]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2025.03.23-03.54.18:277][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1817.997803
+[2025.03.23-03.54.19:278][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-03.54.19:278][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1818.671631, Update Interval: 358.064514
+[2025.03.23-03.55.20:114][704]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.23-03.55.20:123][704]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.23-03.55.20:132][704]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.23-03.55.20:158][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.23-03.55.20:419][709]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.03.23-03.55.26:937][226]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CameraShake
+[2025.03.23-03.55.26:942][226]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.23-03.55.28:581][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Effects/BP_CameraShake.BP_CameraShake
+[2025.03.23-03.55.28:582][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.03.23-03.55.28:674][354]LogStreaming: Display: FlushAsyncLoading(366): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.23-03.57.00:536][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.23-03.57.01:631][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-03.57.01:660][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Effects/BP_CameraShake] ([2] browsable assets)...
+[2025.03.23-03.57.01:660][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Effects/BP_CameraShake]
+[2025.03.23-03.57.01:661][196]LogSavePackage: Moving output files for package: /Game/MyContent/Effects/BP_CameraShake
+[2025.03.23-03.57.01:661][196]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/BP_CameraShake61F9A1234D6FC03197BA81A651F9A78E.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Effects/BP_CameraShake.uasset'
+[2025.03.23-03.57.01:673][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.885 ms (total: 1.23 sec)
+[2025.03.23-03.57.01:725][196]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-03.57.01:725][196]LogContentValidation: Enabled validators:
+[2025.03.23-03.57.01:725][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-03.57.01:725][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-03.57.01:725][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-03.57.01:725][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-03.57.01:725][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-03.57.01:725][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-03.57.01:727][196]AssetCheck: /Game/MyContent/Effects/BP_CameraShake Validating asset
+[2025.03.23-03.57.43:871][797]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.57.43:871][797]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.57.48:526][915]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.57.48:526][915]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.58.31:566][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.23-03.58.50:633][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.23-03.58.58:611][739]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.58.58:611][739]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.59.34:575][464]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-03.59.34:575][464]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-03.59.57:970][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.23-04.00.07:572][379]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.00.15:183][650]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.00.27:020][197]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.00.40:488][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.23-04.00.58:206][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2217.922363
+[2025.03.23-04.00.58:543][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-04.00.58:543][836]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2218.223877, Update Interval: 355.107269
+[2025.03.23-04.01.03:087][988]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.01.03:087][988]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.01.15:090][350]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.01.15:090][350]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.01.24:838][924]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.03.23-04.04.15:639][220]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.03.23-04.06.10:565][886]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.06.10:565][886]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.06.44:995][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.23-04.06.49:328][998]LogSlate: Window 'Save Content' being destroyed
+[2025.03.23-04.06.49:339][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-04.06.49:410][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.23-04.06.49:427][998]LogSavePackage: Moving output files for package: /Game/MyContent/Maps/Lvl_Trent
+[2025.03.23-04.06.49:430][998]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_Trent862513C24562E72098E8019BBA7EEB9E.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Maps/Lvl_Trent.umap'
+[2025.03.23-04.06.49:437][998]LogFileHelpers: Saving map 'Lvl_Trent' took 0.042
+[2025.03.23-04.06.49:437][998]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Effects/BP_CameraShake] ([2] browsable assets)...
+[2025.03.23-04.06.49:437][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Effects/BP_CameraShake]
+[2025.03.23-04.06.49:438][998]LogSavePackage: Moving output files for package: /Game/MyContent/Effects/BP_CameraShake
+[2025.03.23-04.06.49:440][998]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/BP_CameraShake3A64B3E343C1CE91D75507BFD85214A3.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Effects/BP_CameraShake.uasset'
+[2025.03.23-04.06.49:443][998]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-04.06.49:443][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-04.06.49:450][998]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-04.06.49:452][998]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_CaveE682E80C4D54C83C0F5856B7942CE4F0.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-04.06.49:461][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.041 ms (total: 1.35 sec)
+[2025.03.23-04.06.49:511][998]LogContentValidation: Display: Starting to validate 3 assets
+[2025.03.23-04.06.49:511][998]LogContentValidation: Enabled validators:
+[2025.03.23-04.06.49:511][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-04.06.49:511][998]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-04.06.49:511][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-04.06.49:511][998]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-04.06.49:511][998]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-04.06.49:511][998]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-04.06.49:511][998]AssetCheck: /Game/MyContent/Maps/Lvl_Trent Validating asset
+[2025.03.23-04.06.49:511][998]AssetCheck: /Game/MyContent/Effects/BP_CameraShake Validating asset
+[2025.03.23-04.06.49:511][998]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-04.07.23:940][ 46]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.07.23:940][ 46]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.07.25:505][ 76]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.07.28:110][252]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.07.28:111][252]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.07.47:697][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2627.401123
+[2025.03.23-04.07.47:982][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-04.07.47:982][696]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2627.671387, Update Interval: 308.439575
+[2025.03.23-04.08.25:174][827]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.08.25:174][827]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.08.29:797][974]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.08.29:797][974]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.08.39:658][618]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.08.39:682][618]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.08.39:694][618]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.09.03:078][202]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.09.03:095][202]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.09.03:107][202]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.09.39:048][517]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.09.39:048][517]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.09.44:311][735]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.09.44:311][735]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.09.45:784][754]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.09.47:753][798]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.09.47:753][798]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.09.53:525][985]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.09.53:525][985]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.09.55:908][ 92]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.10.00:366][246]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.10.00:366][246]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.10.15:863][345]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.10.15:863][345]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.10.17:465][387]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.10.31:182][253]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.10.31:182][253]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.10.56:324][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-04.10.56:375][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-04.10.56:375][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-04.10.56:381][162]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-04.10.56:384][162]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_Cave97748E7D4E771CC5DFEFC7889FF26051.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-04.10.56:393][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.906 ms (total: 1.42 sec)
+[2025.03.23-04.10.56:423][162]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-04.10.56:423][162]LogContentValidation: Enabled validators:
+[2025.03.23-04.10.56:423][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-04.10.56:423][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-04.10.56:423][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-04.10.56:423][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-04.10.56:423][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-04.10.56:423][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-04.10.56:425][162]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-04.10.57:985][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.23-04.10.59:616][278]LogSlate: Window 'Save Content' being destroyed
+[2025.03.23-04.11.22:526][103]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.11.22:527][103]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.12.31:638][716]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.12.31:638][716]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.12.37:006][981]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.12.37:006][981]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.12.37:240][990]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.12.37:240][990]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.13.29:713][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2969.413330
+[2025.03.23-04.13.30:014][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-04.13.30:014][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2969.698242, Update Interval: 352.201294
+[2025.03.23-04.14.40:107][ 35]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.14.40:107][ 35]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.14.41:877][139]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.15.11:379][858]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.16.17:496][263]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.16.17:496][263]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.16.54:793][444]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.16.54:793][444]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.17.19:604][ 14]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.17.19:605][ 14]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.18.38:980][805]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.18.38:980][805]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.18.40:411][888]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.18.43:693][ 86]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.18.43:693][ 86]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.18.48:384][213]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.18.48:384][213]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.18.49:878][294]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.18.52:451][382]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.18.52:451][382]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.19.33:258][891]Cmd: DUPLICATE
+[2025.03.23-04.19.33:258][891]Cmd: ACTOR DUPLICATE
+[2025.03.23-04.19.56:648][317]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.19.56:669][317]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.19.56:683][317]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.20.05:029][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3364.724365
+[2025.03.23-04.20.05:302][784]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-04.20.05:302][784]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3364.980713, Update Interval: 324.628448
+[2025.03.23-04.21.32:079][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.23-04.21.40:477][494]LogSlate: Window 'Save Content' being destroyed
+[2025.03.23-04.21.40:484][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-04.21.40:537][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.23-04.21.40:555][494]LogSavePackage: Moving output files for package: /Game/MyContent/Maps/Lvl_Trent
+[2025.03.23-04.21.40:558][494]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_TrentD07F1AA741196144BA0CE3A9D569E6FB.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Maps/Lvl_Trent.umap'
+[2025.03.23-04.21.40:565][494]LogFileHelpers: Saving map 'Lvl_Trent' took 0.041
+[2025.03.23-04.21.40:565][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-04.21.40:565][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-04.21.40:571][494]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-04.21.40:573][494]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_CaveC79820F54A328A88A5E8569CB44558B1.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-04.21.40:605][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.027 ms (total: 1.54 sec)
+[2025.03.23-04.21.40:663][494]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.23-04.21.40:663][494]LogContentValidation: Enabled validators:
+[2025.03.23-04.21.40:663][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-04.21.40:663][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-04.21.40:663][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-04.21.40:663][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-04.21.40:663][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-04.21.40:663][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-04.21.40:664][494]AssetCheck: /Game/MyContent/Maps/Lvl_Trent Validating asset
+[2025.03.23-04.21.40:664][494]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-04.22.46:010][250]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.22.46:010][250]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.23.26:709][657]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.23.26:717][657]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.23.26:727][657]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.03.23-04.25.25:766][987]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.25:766][987]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.25:821][991]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.25:821][991]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.25:961][  2]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.25:961][  2]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.26:148][ 16]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.26:148][ 16]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.26:212][ 21]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.26:212][ 21]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.26:254][ 24]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.26:254][ 24]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.26:291][ 27]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.26:291][ 27]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.34:153][601]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.34:154][601]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.37:839][783]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.25.49:730][513]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.49:730][513]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.25.51:598][565]LogDerivedDataCache: C:/Users/cjtip/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.034 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1264 files in 2077 folders with total size 870 MiB.
+[2025.03.23-04.25.59:433][969]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2025.03.23-04.25.59:433][969]LogImgMedia: Warning: Cannot seek while player is not ready
+[2025.03.23-04.26.03:481][131]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.26.10:905][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-04.26.10:942][607]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-04.26.10:942][607]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-04.26.10:949][607]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-04.26.10:951][607]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_CaveBF769D9349A82484A83397B5DE7C8433.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-04.26.10:961][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.935 ms (total: 1.60 sec)
+[2025.03.23-04.26.10:992][607]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-04.26.10:992][607]LogContentValidation: Enabled validators:
+[2025.03.23-04.26.10:992][607]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-04.26.10:992][607]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-04.26.10:992][607]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-04.26.10:992][607]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-04.26.10:992][607]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-04.26.10:992][607]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-04.26.10:993][607]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-04.26.12:929][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3732.618164
+[2025.03.23-04.26.13:220][781]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-04.26.13:220][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3732.895508, Update Interval: 318.109680
+[2025.03.23-04.28.13:667][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-04.28.13:718][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-04.28.13:718][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-04.28.13:725][826]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-04.28.13:728][826]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_CaveE4141CD94E7B8FF629D120BAF78B164A.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-04.28.13:736][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.429 ms (total: 1.67 sec)
+[2025.03.23-04.28.13:783][826]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-04.28.13:783][826]LogContentValidation: Enabled validators:
+[2025.03.23-04.28.13:783][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-04.28.13:783][826]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-04.28.13:783][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-04.28.13:783][826]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-04.28.13:783][826]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-04.28.13:783][826]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-04.28.13:783][826]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-04.28.49:189][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-04.28.49:235][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave] ([1] browsable assets)...
+[2025.03.23-04.28.49:235][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave]
+[2025.03.23-04.28.49:241][703]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave
+[2025.03.23-04.28.49:243][703]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_CaveAE1124974A80013D54EAF1AAE61D3A2B.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave.uasset'
+[2025.03.23-04.28.49:253][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.499 ms (total: 1.73 sec)
+[2025.03.23-04.28.49:285][703]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-04.28.49:285][703]LogContentValidation: Enabled validators:
+[2025.03.23-04.28.49:285][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-04.28.49:285][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-04.28.49:285][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-04.28.49:285][703]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-04.28.49:285][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-04.28.49:285][703]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-04.28.49:286][703]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave Validating asset
+[2025.03.23-04.28.56:156][257]LogMovieRenderPipeline: Generated new ShotInfo for Inner: CineCameraActor Outer: no shot (No existing shot found in the job).
+[2025.03.23-04.28.56:156][257]LogMovieRenderPipeline: Registering range: [0,297000) (InnerName: CineCameraActor OuterName: no shot)
+[2025.03.23-04.28.58:196][411]LogSlate: Window 'Movie Render Queue' being destroyed
+[2025.03.23-04.28.58:200][411]LogSlate: Window 'Movie Render Queue' being destroyed
+[2025.03.23-04.30.08:981][792]LogSlate: Window '' being destroyed
+[2025.03.23-04.30.14:973][246]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase starting 1 jobs.
+[2025.03.23-04.30.14:973][246]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase starting job [1/1]
+[2025.03.23-04.30.14:989][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.23-04.30.15:013][246]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.23-04.30.15:013][246]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.23-04.30.15:013][246]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Lvl_Master
+[2025.03.23-04.30.15:016][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003308s)
+[2025.03.23-04.30.15:016][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Lvl_Master.Lvl_Master to /Game/MyContent/Maps/UEDPIE_0_Lvl_Master.Lvl_Master (0.003345s)
+[2025.03.23-04.30.15:034][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.23-04.30.15:038][246]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_Master
+[2025.03.23-04.30.15:039][246]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2025.03.23-04.30.15:040][246]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.23-04.30.15:040][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.23-04.30.15:040][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.23-04.30.15:040][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.23-04.30.15:040][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.23-04.30.15:040][246]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.23-04.30.15:040][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.23-04.30.15:040][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.23-04.30.15:040][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.23-04.30.15:040][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.23-04.30.15:040][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.23-04.30.15:040][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.23-04.30.15:042][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.23-04.30.15:055][246]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.03.23-04.30.15:055][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.23-04.30.15:055][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.23-04.30.15:055][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.23-04.30.15:056][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.23-04.30.15:056][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.23-04.30.15:058][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.23-04.30.15:058][246]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.23-04.30.15:058][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.23-04.30.15:058][246]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_Master'.
+[2025.03.23-04.30.15:058][246]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.23-04.30.15:058][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.23-04.30.15:059][246]LogPlayLevel: Creating new non-realtime audio mixer
+[2025.03.23-04.30.15:059][246]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: False
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.23-04.30.15:059][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.23-04.30.15:059][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.23-04.30.15:059][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.23-04.30.15:059][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'NonRealtime'
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: Using Audio Hardware Device Non-realtime Renderer
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.23-04.30.15:059][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.23-04.30.15:060][246]LogAudioMixer: Display: Output buffers initialized: Frames=32, Channels=2, Samples=64, InstanceID=3
+[2025.03.23-04.30.15:061][246]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.23-04.30.15:061][246]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_Master'.
+[2025.03.23-04.30.15:061][246]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.23-04.30.15:061][246]LogAudio: Display: Audio Device unregistered from world 'Lvl_Master'.
+[2025.03.23-04.30.15:192][246]LogLoad: Game class is 'MoviePipelineGameMode'
+[2025.03.23-04.30.15:234][246]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Lvl_Master.Lvl_Master up for play (max tick rate 0) at 2025.03.23-15.30.15
+[2025.03.23-04.30.15:235][246]LogWorld: Bringing up level for play took: 0.001826
+[2025.03.23-04.30.15:237][246]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.03.23-04.30.16:103][246]LogBlueprintUserMessages: [Lvl_Master_C_1] PLEASE MAKE YOUR LEVEL ***CURRENT***
+[2025.03.23-04.30.16:438][246]PIE: Server logged in
+[2025.03.23-04.30.16:441][246]PIE: Play in editor total start time 1.454 seconds.
+[2025.03.23-04.30.16:443][246]LogMovieRenderPipeline: [219246] Initializing overall Movie Pipeline
+[2025.03.23-04.30.16:443][246]LogMovieRenderPipeline: Applying Game Override quality settings and cvars.
+[2025.03.23-04.30.16:443][246]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2025.03.23-04.30.16:443][246]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2025.03.23-04.30.16:443][246]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2025.03.23-04.30.16:443][246]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:1000]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:1000]]
+[2025.03.23-04.30.16:443][246]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2025.03.23-04.30.16:443][246]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2025.03.23-04.30.16:443][246]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2025.03.23-04.30.16:445][246]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2025.03.23-04.30.16:445][246]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:1024]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:1024]]
+[2025.03.23-04.30.16:445][246]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:445][246]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2025.03.23-04.30.16:445][246]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2025.03.23-04.30.16:445][246]LogConfig: Applying CVar settings from Section [LandscapeQuality@Cine] File [Scalability]
+[2025.03.23-04.30.16:445][246]Cmd: r.HLOD 0
+[2025.03.23-04.30.16:446][246]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: CineCameraActor Outer: no shot.
+[2025.03.23-04.30.16:446][246]LogMovieRenderPipeline: Registering range: [0,297000) (InnerName: CineCameraActor OuterName: no shot)
+[2025.03.23-04.30.16:919][246]LogContentStreaming: Texture pool size now 3000 MB
+[2025.03.23-04.30.16:919][246]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="3000"
+[2025.03.23-04.30.24:179][246]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.03.23-04.30.24:306][246]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.03.23-04.30.35:243][246]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.03.23-04.30.39:150][246]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.03.23-04.30.39:251][246]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2025.03.23-04.30.39:920][247]LogMovieRenderPipeline: Expanding Shot 1/1 (Shot: no shot Camera: CineCameraActor)
+[2025.03.23-04.30.39:920][247]LogMovieRenderPipeline: [219247] Initializing Camera Cut [1/1] in [no shot] CineCameraActor.
+[2025.03.23-04.30.39:920][247]LogMovieRenderPipeline: [219247] Initialization set state to WarmingUp due to having 1 warm up frames.
+[2025.03.23-04.30.39:923][247]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2025.03.23-04.30.39:924][247]LogMovieRenderPipeline: Finished setting up rendering for shot. Shot has 1 Passes. Total resolution: (1920x1080) Individual tile resolution: (1920x1080). Tile count: (1x1)
+[2025.03.23-04.30.39:924][247]LogMovieRenderPipeline: [219247] Finished initializing Camera Cut [1/1] in [no shot] CineCameraActor.
+[2025.03.23-04.30.40:028][247]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.23-04.31.51:823][247]LogWindows: Attached monitors:
+[2025.03.23-04.31.51:823][247]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2088), device: '\\.\DISPLAY1' [PRIMARY]
+[2025.03.23-04.31.51:823][247]LogWindows: Found 1 attached monitors.
+[2025.03.23-04.31.51:823][247]LogWindows: Gathering driver information using Windows Setup API
+[2025.03.23-04.32.10:562][495]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2025.03.23-04.32.13:553][546]LogMovieRenderPipeline: [219546] Finished processing Camera Cut [1/1].
+[2025.03.23-04.32.13:680][546]LogMovieRenderPipeline: [219546] Finished rendering last shot. Moving to Finalize to finish writing items to disk.
+[2025.03.23-04.32.13:720][546]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2025.03.23-04.32.13:874][548]LogMovieRenderPipeline: Restoring Game Override quality settings and cvars.
+[2025.03.23-04.32.13:874][548]Cmd: r.HLOD 0
+[2025.03.23-04.32.13:886][548]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2025.03.23-04.32.13:886][548]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2025.03.23-04.32.13:886][548]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.03.23-04.32.13:886][548]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.03.23-04.32.13:886][548]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2025.03.23-04.32.13:887][548]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2025.03.23-04.32.13:887][548]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.03.23-04.32.13:887][548]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2025.03.23-04.32.13:887][548]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:512]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:512]]
+[2025.03.23-04.32.13:887][548]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.03.23-04.32.13:887][548]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.03.23-04.32.13:887][548]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2025.03.23-04.32.13:887][548]Cmd: r.ResetRenderTargetsExtent
+[2025.03.23-04.32.13:887][548]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2025.03.23-04.32.13:887][548]LogMovieRenderPipeline: Movie Pipeline completed. Duration: +00:01:57.294
+[2025.03.23-04.32.13:952][548]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.23-04.32.14:299][548]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.23-04.32.15:141][548]LogContentStreaming: Texture pool size now 1000 MB
+[2025.03.23-04.32.15:141][548]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.03.23-04.32.15:182][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.23-04.32.15:182][548]LogWorld: BeginTearingDown for /Game/MyContent/Maps/UEDPIE_0_Lvl_Master
+[2025.03.23-04.32.15:182][548]LogSlate: Window 'Movie Pipeline Render (Preview) [Job 1/1 Total] Current Job: 100% Completed.' being destroyed
+[2025.03.23-04.32.15:192][548]LogWorld: UWorld::CleanupWorld for Lvl_Master, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-04.32.15:192][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-04.32.15:195][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.23-04.32.15:201][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-04.32.15:222][548]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.23-04.32.15:222][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.23-04.32.15:224][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.23-04.32.15:229][548]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.23-04.32.15:234][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.23-04.32.15:310][549]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase finished 1 jobs in +00:02:00.337.
+[2025.03.23-04.32.15:324][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.23-04.32.15:371][551]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.03.23-04.32.15:474][554]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.23-04.32.15:607][561]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 33554432 bytes
+[2025.03.23-04.32.35:345][835]LogSlate: Window 'Movie Render Queue' being destroyed
+[2025.03.23-04.32.35:349][835]LogSlate: Window 'Movie Render Queue' being destroyed
+[2025.03.23-04.32.36:628][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.23-04.32.38:623][928]LogSlate: Window 'Save Content' being destroyed
+[2025.03.23-04.32.38:630][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-04.32.38:696][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.23-04.32.38:830][928]LogSavePackage: Moving output files for package: /Game/MyContent/Maps/Lvl_Trent
+[2025.03.23-04.32.38:833][928]LogSavePackage: Moving '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_TrentDE309A354021C3F5C4EAEEAD58C69126.tmp' to '../../../../../../Users/cjtip/OneDrive/Documents/GitHub/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Maps/Lvl_Trent.umap'
+[2025.03.23-04.32.38:843][928]LogFileHelpers: Saving map 'Lvl_Trent' took 0.161
+[2025.03.23-04.32.38:849][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.879 ms (total: 1.95 sec)
+[2025.03.23-04.32.38:898][928]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.23-04.32.38:898][928]LogContentValidation: Enabled validators:
+[2025.03.23-04.32.38:898][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-04.32.38:898][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-04.32.38:898][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-04.32.38:898][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-04.32.38:898][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-04.32.38:898][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-04.32.38:899][928]AssetCheck: /Game/MyContent/Maps/Lvl_Trent Validating asset
+[2025.03.23-04.32.49:359][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4129.036133
+[2025.03.23-04.32.50:360][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.23-04.32.50:360][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4129.702148, Update Interval: 322.844940
