@@ -4999,3 +4999,100 @@ FPackageName: Skipped package /Game/MyContent/LiveAction/VP_FootageStart/MC_Foot
 [2025.03.23-11.35.46:610][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16100.015625
 [2025.03.23-11.35.47:610][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.23-11.35.47:610][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16100.681641, Update Interval: 349.092072
+[2025.03.23-11.42.16:483][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.23-11.42.17:653][314]LogSlate: Window 'Save Content' being destroyed
+[2025.03.23-11.42.17:659][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.23-11.42.17:709][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.23-11.42.17:717][314]LogSavePackage: Moving output files for package: /Game/MyContent/Maps/Lvl_Master
+[2025.03.23-11.42.17:718][314]LogSavePackage: Moving 'E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Saved/Lvl_Master8B76263142585BBCBF3889874552540E.tmp' to 'E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Maps/Lvl_Master.umap'
+[2025.03.23-11.42.17:731][314]LogFileHelpers: Saving map 'Lvl_Master' took 0.049
+[2025.03.23-11.42.17:731][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/LiveAction/VP_10_CaveEnding/IMG_EndingCave] ([1] browsable assets)...
+[2025.03.23-11.42.17:731][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/LiveAction/VP_10_CaveEnding/IMG_EndingCave]
+[2025.03.23-11.42.17:732][314]LogSavePackage: Moving output files for package: /Game/MyContent/LiveAction/VP_10_CaveEnding/IMG_EndingCave
+[2025.03.23-11.42.17:732][314]LogSavePackage: Moving 'E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Saved/IMG_EndingCaveF0CD96394AB6AF7F8AE911AD0E39FD1D.tmp' to 'E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/LiveAction/VP_10_CaveEnding/IMG_EndingCave.uasset'
+[2025.03.23-11.42.17:735][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/Sequences/LS_Shot_Cave_Ending] ([1] browsable assets)...
+[2025.03.23-11.42.17:735][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/Sequences/LS_Shot_Cave_Ending]
+[2025.03.23-11.42.17:741][314]LogSavePackage: Moving output files for package: /Game/MyContent/Sequences/LS_Shot_Cave_Ending
+[2025.03.23-11.42.17:741][314]LogSavePackage: Moving 'E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Saved/LS_Shot_Cave_Ending55A4BF0746761267494795AF4F2B605E.tmp' to 'E:/Game Development/UE_Projects/Virtual-Production-Lab/Unreal/VPL/Content/MyContent/Sequences/LS_Shot_Cave_Ending.uasset'
+[2025.03.23-11.42.17:750][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.196 ms (total: 1.51 sec)
+[2025.03.23-11.42.17:788][314]LogStall: Shutdown...
+[2025.03.23-11.42.17:788][314]LogStall: Shutdown complete.
+[2025.03.23-11.42.22:495][314]LogSlate: Window 'IMG_WalkUpEnding' being destroyed
+[2025.03.23-11.42.22:546][314]LogSlate: Window 'Content Browser' being destroyed
+[2025.03.23-11.42.22:553][314]LogSlate: Window 'Movie Render Queue' being destroyed
+[2025.03.23-11.42.22:558][314]LogSlate: Window 'VPL - Unreal Editor' being destroyed
+[2025.03.23-11.42.22:559][314]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2025.03.23-11.42.25:799][314]LogContentValidation: Display: Starting to validate 3 assets
+[2025.03.23-11.42.25:799][314]LogContentValidation: Enabled validators:
+[2025.03.23-11.42.25:799][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.23-11.42.25:799][314]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.23-11.42.25:799][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.23-11.42.25:799][314]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.23-11.42.25:799][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.23-11.42.25:799][314]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.23-11.42.25:800][314]AssetCheck: /Game/MyContent/Maps/Lvl_Master Validating asset
+[2025.03.23-11.42.25:800][314]AssetCheck: /Game/MyContent/LiveAction/VP_10_CaveEnding/IMG_EndingCave Validating asset
+[2025.03.23-11.42.25:800][314]AssetCheck: /Game/MyContent/Sequences/LS_Shot_Cave_Ending Validating asset
+[2025.03.23-11.42.25:801][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16499.238281
+[2025.03.23-11.42.25:802][314]Cmd: QUIT_EDITOR
+[2025.03.23-11.42.25:802][314]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.23-11.42.25:812][315]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.23-11.42.25:812][315]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.23-11.42.25:812][315]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.23-11.42.25:819][315]LogWorld: UWorld::CleanupWorld for Lvl_Master, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:820][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:820][315]LogWorld: UWorld::CleanupWorld for Lvl_Trent, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:820][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:820][315]LogWorld: UWorld::CleanupWorld for Lvl_Suzan, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:820][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:820][315]LogWorld: UWorld::CleanupWorld for Lvl_Sharon, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:820][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:833][315]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.23-11.42.25:837][315]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.23-11.42.25:849][315]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:849][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:850][315]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:850][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:850][315]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:850][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:850][315]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:850][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:850][315]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:850][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:851][315]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:851][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:851][315]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:851][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:851][315]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:851][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:852][315]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:852][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:852][315]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:852][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:852][315]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:853][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:853][315]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:853][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:853][315]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.23-11.42.25:853][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.23-11.42.25:857][315]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.23-11.42.25:866][315]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.23-11.42.25:866][315]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.23-11.42.25:866][315]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.23-11.42.26:417][315]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.23-11.42.26:417][315]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.23-11.42.26:417][315]LogAudio: Display: Audio Device unregistered from world 'Lvl_Master'.
+[2025.03.23-11.42.26:417][315]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.23-11.42.26:417][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.23-11.42.26:419][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.23-11.42.26:427][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.23-11.42.26:427][315]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.23-11.42.26:430][315]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.23-11.42.26:431][315]LogExit: Preparing to exit.
+[2025.03.23-11.42.26:468][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.23-11.42.27:644][315]LogEditorDataStorage: Deinitializing
+[2025.03.23-11.42.28:233][315]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.23-11.42.28:280][315]LogExit: Editor shut down
+[2025.03.23-11.42.28:283][315]LogExit: Transaction tracking system shut down
+[2025.03.23-11.42.28:665][315]LogExit: Object subsystem successfully closed.
+[2025.03.23-11.42.28:739][315]LogShaderCompilers: Display: Shaders left to compile 0
